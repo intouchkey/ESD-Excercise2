@@ -2,7 +2,7 @@
 
 Name: Intouch Yutinatorn
 ID: 61090007
-Github link:
+Github link: https://github.com/intouchkey/ESD-Excercise2
 
 This project covers the excercise 2 (Client, Server, API) for KMITL ESD - lecture 5-7:
 - Server with API (RESTful web services) 
