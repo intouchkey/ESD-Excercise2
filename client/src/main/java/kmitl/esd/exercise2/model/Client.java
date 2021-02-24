@@ -145,7 +145,7 @@ public class Client {
      */
     void callDeleteCustomer(RestTemplate restTemplate, String id) {
         String url = "http://localhost:8000/customer/" + id;
-        System.out.println(url);
+
         restTemplate.exchange(url, HttpMethod.DELETE, null, String.class);
     }
 }
