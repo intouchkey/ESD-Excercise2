@@ -24,7 +24,7 @@
 		</dependency>
 	</dependencies>
 	<parent>
-        <artifactId>kmitl-esd-exercise2-client-server-61090007-Key</artifactId>
+        <artifactId>kmitl-esd-exercise2-61090007-Key</artifactId>
         <groupId>kmitl.esd.exercise2</groupId>
         <version>1.0.0</version>
     </parent>
